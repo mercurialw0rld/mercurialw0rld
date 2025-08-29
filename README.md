@@ -34,9 +34,9 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) 
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)  
-![OpenRouter](https://img.shields.io/badge/OpenRouter-1A1A1A?style=flat&logo=routeros&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)  ![OpenRouter](https://img.shields.io/badge/OpenRouter-1A1A1A?style=flat&logo=routeros&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-34A853?style=flat&logo=google&logoColor=white)
+
 
 ### **Other Tools & Languages**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) 
