@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 - 🔭 Currently studying **Computer Science** and working on projects that combine **web development + AI**  
 - 🌱 Exploring the intersection of **Full-Stack Development** and **Machine Learning/LLMs**  
-- ⚡ Curious, creative, and always looking for new challenges to grow as a developer  
+- ⚡ Curious, creative, and always looking for new challenges to grow as a developer.  
 
 ---
 
