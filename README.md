@@ -1,4 +1,4 @@
-### 🚀 Software Engineer | AI Solutions Developer
+### 🚀 Software Engineer
 
 Hello! My name is Facundo, i'm a Software Engineer and Computer Science student at University of Buenos Aires. My focus is on designing, developing, and deploying scalable, high-performance applications. I specialize in leveraging advanced technologies like Machine Learning, Large Language Models (LLMs), RAG, and Agentic frameworks to solve real-world business problems, driving operational efficiency and technological innovation.
 
