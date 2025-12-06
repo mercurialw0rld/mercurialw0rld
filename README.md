@@ -4,7 +4,7 @@ Hello! My name is Facundo, i'm a Software Engineer and Computer Science student 
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Tech Stack 
 
 | Category | Tools & Technologies |
 | :--- | :--- |
