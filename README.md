@@ -9,8 +9,8 @@ Hello! My name is Facundo, i'm a Software Engineer and Computer Science student 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Programming Languages** | Python, JavaScript, Java, C, SQL |
-| **AI/ML/LLMs** | RAG, Agents, Fine-Tuning, LangChain, PyTorch, scikit-learn, Predictive Modeling, Reinforcement Learning, HuggingFace |
-| **Backend & Runtime** | Node.js, Express.js, Django |
+| **AI/ML/LLMs** | RAG, Agents, Fine-Tuning, LangChain, PyTorch, scikit-learn, Predictive Modeling, HuggingFace |
+| **Backend** | Node.js, Express.js, Django |
 | **Frontend** | React, HTML/CSS |
 | **Databases and Data processing** | Postgres, Redis, Pandas, Numpy |
 | **Cloud & DevOps** | AWS, Microsoft Azure, Docker, Git |
